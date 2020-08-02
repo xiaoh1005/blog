@@ -1,0 +1,10 @@
+spring:
+  profiles:
+    active: dev
+  rsocket:
+    server:
+      port: 8080
+
+
+server:
+  port: 1005
